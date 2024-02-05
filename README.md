@@ -1,12 +1,25 @@
-# big-o-performance
-A simple html app to demonstrate performance costs of data structures.
+"Welcome to our simple HTML app that showcases the performance costs of different data structures. Follow these easy steps to get started:
 
-- Clone the project
-- Navigate to the root of the project in a termina or command prompt
-- Run 'npm install'
-- Run 'npm start'
-- Go to the URL specified in the terminal or command prompt to try out the app.
+1. Clone the Project:
+   - Click the 'Clone' button or download the project to your computer.
 
+   Open Terminal or Command Prompt:
+   - Open the terminal or command prompt on your computer.
+
+3. Navigate to the Project:
+   - Use the 'cd' command to navigate to the root folder of the downloaded project.
+
+4. Install Dependencies:
+   - Type 'npm install' and press Enter to install the necessary dependencies.
+
+5. Start the App:
+   - Type 'npm start' and press Enter to launch the app.
+
+6. Explore the App:
+   - Once the app is running, check the terminal or command prompt for the URL.
+   - Open that URL in your web browser to start exploring and understanding the performance costs of various data structures.
+
+Enjoy experimenting with the app and discovering insights.
 # This app was created from the Create React App NPM.  Below are instructions from that project.
 
 Below you will find some information on how to perform common tasks.  
